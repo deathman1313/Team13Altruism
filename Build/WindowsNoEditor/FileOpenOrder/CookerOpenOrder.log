@@ -66,334 +66,366 @@
 "C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Robot_M/Robot_M.uasset" 65
 "C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Robot.uasset" 66
 "C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/Towers/BP_ToyRobot.uasset" 67
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 68
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/ST_TowerSelection.uasset" 69
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_Pickup.uasset" 70
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_PickupSpawner.uasset" 71
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/S_WaveDetails.uasset" 72
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/DT_WaveDetails.uasset" 73
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Win_Screen_Final.uasset" 74
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/BACK.uasset" 75
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/DELETE_HIGHSCORE.uasset" 76
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/SETTINGS.uasset" 77
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/title.uasset" 78
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/titlevers13.uasset" 79
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/CREDITS.uasset" 80
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/ST_TowerSelection.uasset" 68
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_Pickup.uasset" 69
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_PickupSpawner.uasset" 70
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/S_WaveDetails.uasset" 71
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/DT_WaveDetails.uasset" 72
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Win_Screen_Final.uasset" 73
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/BACK.uasset" 74
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/DELETE_HIGHSCORE.uasset" 75
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/SETTINGS.uasset" 76
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/unlockables.uasset" 77
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/titlevers13.uasset" 78
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/CREDITS.uasset" 79
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/title.uasset" 80
 "C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_Credits.uasset" 81
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_HowToPlay.uasset" 82
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/ST_UnlockInfo.uasset" 83
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_ImageViewer.uasset" 84
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_UnlockIcon.uasset" 85
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_Unlockables.uasset" 86
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_MainMenu.uasset" 87
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_Settings.uasset" 88
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_WinScreen.uasset" 89
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/GM_Bed.uasset" 90
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/SG_Highscore.uasset" 91
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Ball_Icon.uasset" 92
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Block_Icon.uasset" 93
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Lamp_Icon.uasset" 94
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Robot_Icon.uasset" 95
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/EXIT_TO_MAIN_MENU.uasset" 96
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/QUIT.uasset" 97
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/RESUME.uasset" 98
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_PauseMenu.uasset" 99
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/ENEMIEZ.uasset" 100
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/HIGHSCORE.uasset" 101
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/SCORE.uasset" 102
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/WAVE.uasset" 103
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_TowerIcon.uasset" 104
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_Hud.uasset" 105
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/LP_Bear_initialShadingGroup_BaseColor.uasset" 106
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/LP_Bear_initialShadingGroup_Normal.uasset" 107
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/LP_Bear_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 108
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/Bear_M.uasset" 109
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/BearRig/BearPhysics.uasset" 110
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/BearRig/BearMesh.uasset" 111
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_Teddy.uasset" 112
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Lose_Screen_Final.uasset" 113
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_LoseScreen.uasset" 114
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/BP_EnemyAI.uasset" 115
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_EnemyAI1.uasset" 116
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_ToyBox.uasset" 117
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/M_Blue.uasset" 118
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/M_Red.uasset" 119
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/Towers/BP_Marbles.uasset" 120
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/Towers/BP_Nutcracker.uasset" 121
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_MainMenu.uasset" 122
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Blackboardlose.uasset" 123
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Blackboardwin.uasset" 124
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Lose_Screen_title8.uasset" 125
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/white_line.uasset" 126
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Win_screen_background.uasset" 127
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/yellow_line.uasset" 128
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Ball.uasset" 129
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/ball_lp.uasset" 130
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bear.uasset" 131
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/bigspid_lp_1_.uasset" 132
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Lamp_LP.uasset" 133
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/lilspid_lp_1_.uasset" 134
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/HP_BeanBag_initialShadingGroup_BaseColor.uasset" 135
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/HP_BeanBag_initialShadingGroup_Normal.uasset" 136
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/HP_BeanBag_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 137
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/BeanBag_M.uasset" 138
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/BeanBag.uasset" 139
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_BeanBag.uasset" 140
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/LP_Bed_initialShadingGroup_BaseColor.uasset" 141
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/LP_Bed_initialShadingGroup_Normal.uasset" 142
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/LP_Bed_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 143
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/Bed_M.uasset" 144
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bed_1.uasset" 145
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bed_1_.uasset" 146
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/LP_CurtainsRailBunting_initialShadingGroup_BaseColor.uasset" 147
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/LP_CurtainsRailBunting_initialShadingGroup_Normal.uasset" 148
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/LP_CurtainsRailBunting_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 149
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/CurtainsRailBunting_M.uasset" 150
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bunting_Fallen.uasset" 151
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bunting_Fallen.uasset" 152
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bunting_Normal.uasset" 153
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bunting_Normal.uasset" 154
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Curtains_Rail.uasset" 155
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_CurtainsAndRail.uasset" 156
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/LP_Rug_Rectangle_initialShadingGroup_BaseColor.uasset" 157
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/LP_Rug_Rectangle_initialShadingGroup_Normal.uasset" 158
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/LP_Rug_Rectangle_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 159
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/Rug_M.uasset" 160
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Rug_Rectangle.uasset" 161
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Rug_Rectangle.uasset" 162
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/LP_Wall_Normal_initialShadingGroup_BaseColor.uasset" 163
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/LP_Wall_Normal_initialShadingGroup_Normal.uasset" 164
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/LP_Wall_Normal_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 165
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/WallNormal_M.uasset" 166
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wall_Normal.uasset" 167
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Wall_Normal.uasset" 168
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/LP_Wall_Window_initialShadingGroup_BaseColor.uasset" 169
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/LP_Wall_Window_initialShadingGroup_Normal.uasset" 170
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/LP_Wall_Window_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 171
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/WallWindow_M.uasset" 172
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wall_Window.uasset" 173
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Wall_Window.uasset" 174
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/war_LP_initialShadingGroup_BaseColor.uasset" 175
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/war_LP_initialShadingGroup_Normal.uasset" 176
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/war_LP_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 177
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/Wardrobe_M.uasset" 178
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wardrobe.uasset" 179
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wardrobe_RESIZED.uasset" 180
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Wardrobe_RESIZED.uasset" 181
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/LP_Window_initialShadingGroup_BaseColor.uasset" 182
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/LP_Window_initialShadingGroup_Normal.uasset" 183
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/LP_Window_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 184
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/Window_M.uasset" 185
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Window.uasset" 186
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Window.uasset" 187
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/midspid_lp_1_.uasset" 188
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/toybox_lp_initialShadingGroup_BaseColor.uasset" 189
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/toybox_lp_initialShadingGroup_Normal.uasset" 190
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/toybox_lp_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 191
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/ToyBox_M.uasset" 192
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/ToyBox.uasset" 193
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/toybox_lp.uasset" 194
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 195
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 196
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 197
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 198
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 199
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 200
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 201
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 202
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 203
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 204
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 205
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 206
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 207
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 208
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 209
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 210
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 211
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 212
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 213
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 214
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 215
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 216
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 217
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 218
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 219
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 220
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 221
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 222
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 223
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 224
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 225
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 226
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 227
-"../../../Engine/Content/EditorResources/S_Note.uasset" 228
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 229
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 230
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 231
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 232
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 233
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 234
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 235
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 236
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 237
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 238
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 239
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 240
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 241
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 242
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 243
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 244
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 245
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 246
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 247
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 248
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 249
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 250
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 251
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 252
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 253
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 254
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 255
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 256
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 257
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 258
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 259
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 260
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 261
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 262
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 263
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 264
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 265
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 266
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 267
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 268
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 269
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 270
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 271
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 272
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 273
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 274
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 275
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 276
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 277
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 278
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 279
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 280
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 281
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 282
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 283
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 284
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 285
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 286
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 287
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 288
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 289
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 290
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 291
-"../../../Engine/Content/EngineResources/Black.uasset" 292
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 293
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 294
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 295
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 296
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 297
-"../../../Engine/Content/EngineSounds/Master.uasset" 298
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 299
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 300
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 301
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 302
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 303
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 304
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 305
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 306
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 307
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 308
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 309
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 310
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 311
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 312
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 313
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 314
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 315
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 316
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 317
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 318
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 319
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 320
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 321
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 322
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 323
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 324
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 325
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 326
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 327
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 328
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 329
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 330
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 331
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 332
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 333
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 334
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 335
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 336
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 337
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 338
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 339
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 340
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 341
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 342
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 343
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 344
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 345
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 346
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 347
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 348
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 349
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 350
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 351
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 352
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 353
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 354
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 355
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 356
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 357
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 358
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 359
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 360
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 361
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 362
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 363
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/BP_End.uasset" 364
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/BedTest1_BuiltData.uasset" 365
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/M_Black.uasset" 366
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_Default.uasset" 367
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bed.uasset" 368
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bed.uasset" 369
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/BedTest1.umap" 370
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/FinalMap_BuiltData.uasset" 371
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/LP_Floor_initialShadingGroup_BaseColor.uasset" 372
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/LP_Floor_initialShadingGroup_Normal.uasset" 373
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/LP_Floor_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 374
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/Carpet_M.uasset" 375
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Floor.uasset" 376
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/LP_PHR_pasted__Triangle_Dec_3_group29Mat.uasset" 377
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/PhotoFrame_Rectangle.uasset" 378
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/LP_PHS_pasted__Triangle_Dec_3_group29Mat.uasset" 379
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/PhotoFrame_Square.uasset" 380
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_1.uasset" 381
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_2.uasset" 382
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_3.uasset" 383
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_4.uasset" 384
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_5.uasset" 385
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_6.uasset" 386
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_7.uasset" 387
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/FinalMap.umap" 388
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/Main_Menu.umap" 389
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MasonTest1_BuiltData.uasset" 390
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 391
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MasonTest1.umap" 392
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MeshTest_BuiltData.uasset" 393
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MeshTest.umap" 394
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/WeaponTest_BuiltData.uasset" 395
-"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/WeaponTest.umap" 396
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 397
-"../../../Engine/Content/Maps/Entry.umap" 398
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Arrow.uasset" 82
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/howto1.uasset" 83
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Arrow2.uasset" 84
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/EXIT_TO_MAIN_MENU.uasset" 85
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/howto2.uasset" 86
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_HowToPlay2.uasset" 87
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_HowToPlay.uasset" 88
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/ST_UnlockInfo.uasset" 89
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_ImageViewer.uasset" 90
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_UnlockIcon.uasset" 91
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AGEnemies.uasset" 92
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AGEnemies2.uasset" 93
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AGMenu.uasset" 94
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AGTitles.uasset" 95
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AYBed.uasset" 96
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AYDayNight.uasset" 97
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AYLamp.uasset" 98
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AYToyBox.uasset" 99
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/AYToys.uasset" 100
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/MGBear.uasset" 101
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/MGLose.uasset" 102
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/MGLoseSketch.uasset" 103
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/MGTitle.uasset" 104
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/MGWin.uasset" 105
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/MGWinColours.uasset" 106
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Unlockables/MGWinSketch.uasset" 107
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/UNLOCKABLES__1_.uasset" 108
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_Unlockables.uasset" 109
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_MainMenu.uasset" 110
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_Settings.uasset" 111
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_WinScreen.uasset" 112
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/GM_Bed.uasset" 113
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/SG_Highscore.uasset" 114
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Ball_Icon.uasset" 115
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Block_Icon.uasset" 116
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Lamp_Icon.uasset" 117
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Robot_Icon.uasset" 118
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/QUIT.uasset" 119
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/RESUME.uasset" 120
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_PauseMenu.uasset" 121
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/ENEMIEZ.uasset" 122
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/HIGHSCORE.uasset" 123
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/SCORE.uasset" 124
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/WAVE.uasset" 125
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_TowerIcon.uasset" 126
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_Hud.uasset" 127
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/LP_Bear_initialShadingGroup_BaseColor.uasset" 128
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/LP_Bear_initialShadingGroup_Normal.uasset" 129
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/LP_Bear_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 130
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bear_M/Bear_M.uasset" 131
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/BearRig/BearPhysics.uasset" 132
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/BearRig/BearMesh.uasset" 133
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_Teddy.uasset" 134
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Lose_Screen_Final.uasset" 135
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_LoseScreen.uasset" 136
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/BP_EnemyAI.uasset" 137
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_EnemyAI1.uasset" 138
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 139
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/BP_ToyBox.uasset" 140
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/M_Blue.uasset" 141
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/M_Red.uasset" 142
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/Towers/BP_Marbles.uasset" 143
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/Towers/BP_Nutcracker.uasset" 144
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/UI_MainMenu.uasset" 145
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Blackboardlose.uasset" 146
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Blackboardwin.uasset" 147
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Lose_Screen_title8.uasset" 148
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/titlescreen.uasset" 149
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/white_line.uasset" 150
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/Win_screen_background.uasset" 151
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Art/yellow_line.uasset" 152
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/UI/Menus/UI_Score.uasset" 153
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/DayNightCycle/Day1.uasset" 154
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/DayNightCycle/Day2.uasset" 155
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/DayNightCycle/Day3.uasset" 156
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/DayNightCycle/Night1.uasset" 157
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/DayNightCycle/Night2.uasset" 158
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Ball.uasset" 159
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/ball_lp.uasset" 160
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bear.uasset" 161
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/bigspid_lp_1_.uasset" 162
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Lamp_LP.uasset" 163
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/lilspid_lp_1_.uasset" 164
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/HP_BeanBag_initialShadingGroup_BaseColor.uasset" 165
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/HP_BeanBag_initialShadingGroup_Normal.uasset" 166
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/HP_BeanBag_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 167
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/BeanBag_M/BeanBag_M.uasset" 168
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/BeanBag.uasset" 169
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_BeanBag.uasset" 170
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/LP_Bed_initialShadingGroup_BaseColor.uasset" 171
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/LP_Bed_initialShadingGroup_Normal.uasset" 172
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/LP_Bed_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 173
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_M/Bed_M.uasset" 174
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bed_1.uasset" 175
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bed_1_.uasset" 176
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/LP_CurtainsRailBunting_initialShadingGroup_BaseColor.uasset" 177
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/LP_CurtainsRailBunting_initialShadingGroup_Normal.uasset" 178
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/LP_CurtainsRailBunting_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 179
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/CurtainsRaillBunting_M/CurtainsRailBunting_M.uasset" 180
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bunting_Fallen.uasset" 181
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bunting_Fallen.uasset" 182
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bunting_Normal.uasset" 183
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bunting_Normal.uasset" 184
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Curtains_Rail.uasset" 185
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_CurtainsAndRail.uasset" 186
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/LP_Rug_Rectangle_initialShadingGroup_BaseColor.uasset" 187
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/LP_Rug_Rectangle_initialShadingGroup_Normal.uasset" 188
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/LP_Rug_Rectangle_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 189
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Rug_M/Rug_M.uasset" 190
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Rug_Rectangle.uasset" 191
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Rug_Rectangle.uasset" 192
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/LP_Wall_Normal_initialShadingGroup_BaseColor.uasset" 193
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/LP_Wall_Normal_initialShadingGroup_Normal.uasset" 194
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/LP_Wall_Normal_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 195
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallNormal_M/WallNormal_M.uasset" 196
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wall_Normal.uasset" 197
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Wall_Normal.uasset" 198
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/LP_Wall_Window_initialShadingGroup_BaseColor.uasset" 199
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/LP_Wall_Window_initialShadingGroup_Normal.uasset" 200
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/LP_Wall_Window_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 201
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/WallWindow_M/WallWindow_M.uasset" 202
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wall_Window.uasset" 203
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Wall_Window.uasset" 204
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/war_LP_initialShadingGroup_BaseColor.uasset" 205
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/war_LP_initialShadingGroup_Normal.uasset" 206
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/war_LP_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 207
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Wardrobe_M/Wardrobe_M.uasset" 208
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wardrobe.uasset" 209
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Wardrobe_RESIZED.uasset" 210
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Wardrobe_RESIZED.uasset" 211
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/LP_Window_initialShadingGroup_BaseColor.uasset" 212
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/LP_Window_initialShadingGroup_Normal.uasset" 213
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/LP_Window_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 214
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Window_M/Window_M.uasset" 215
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Window.uasset" 216
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Window.uasset" 217
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/midspid_lp_1_.uasset" 218
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/toybox_lp_initialShadingGroup_BaseColor.uasset" 219
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/toybox_lp_initialShadingGroup_Normal.uasset" 220
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/toybox_lp_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 221
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/ToyBox_M/ToyBox_M.uasset" 222
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/ToyBox.uasset" 223
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/toybox_lp.uasset" 224
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 225
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 226
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 227
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 228
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 229
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 230
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 231
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 232
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 233
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 234
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 235
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 236
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 237
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 238
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 242
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 243
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 244
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 245
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 246
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 247
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 248
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 249
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 250
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 251
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 252
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 253
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 254
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 255
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 256
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 257
+"../../../Engine/Content/EditorResources/S_Note.uasset" 258
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 259
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 260
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 261
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 262
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 263
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 264
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 265
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 266
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 267
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 268
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 269
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 270
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 271
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 273
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 274
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 275
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 276
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 277
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 278
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 279
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 280
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 281
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 282
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 283
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 284
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 285
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 286
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 287
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 288
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 289
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 290
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 291
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 292
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 293
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 295
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 296
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 297
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 298
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 299
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 300
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 301
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 302
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 303
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 304
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 305
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 306
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 308
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 309
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 310
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 311
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 312
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 313
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 314
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 315
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 316
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 317
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 318
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 319
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 320
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 321
+"../../../Engine/Content/EngineResources/Black.uasset" 322
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 323
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 324
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 325
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 326
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 327
+"../../../Engine/Content/EngineSounds/Master.uasset" 328
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 329
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 330
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 331
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 332
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 333
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 334
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 335
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 336
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 337
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 338
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 339
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 340
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 341
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 342
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 343
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 344
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 352
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 353
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 354
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 355
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 356
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 357
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 358
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 359
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 360
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 361
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 362
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 363
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 364
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 365
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 366
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 367
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 368
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 369
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 370
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 371
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 372
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 373
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 374
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 375
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 376
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 377
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 378
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 379
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 380
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 381
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 382
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 383
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 384
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 385
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 386
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 387
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 388
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 389
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 390
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 391
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 392
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 393
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/BP_End.uasset" 394
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/BedTest1_BuiltData.uasset" 395
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Blueprints/AI/M_Black.uasset" 396
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Bed_Default.uasset" 397
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Bed.uasset" 398
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/LP_Bed.uasset" 399
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/BedTest1.umap" 400
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/FinalMap_BuiltData.uasset" 401
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/DayNightCycle/Night3.uasset" 402
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/DayNightCycle/M_DayNight.uasset" 403
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/LP_Floor_initialShadingGroup_BaseColor.uasset" 404
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/LP_Floor_initialShadingGroup_Normal.uasset" 405
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/LP_Floor_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 406
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/Carpet_M/Carpet_M.uasset" 407
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/Floor.uasset" 408
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/LP_PHR_pasted__Triangle_Dec_3_group29Mat.uasset" 409
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/PhotoFrame_Rectangle.uasset" 410
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Materials/LP_PHS_pasted__Triangle_Dec_3_group29Mat.uasset" 411
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/PhotoFrame_Square.uasset" 412
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_1.uasset" 413
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_2.uasset" 414
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_3.uasset" 415
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_4.uasset" 416
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_5.uasset" 417
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_6.uasset" 418
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Meshes/WoodenBlock_7.uasset" 419
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/FinalMap.umap" 420
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/Main_Menu.umap" 421
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MasonTest1_BuiltData.uasset" 422
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 423
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MasonTest1.umap" 424
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MeshTest_BuiltData.uasset" 425
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/MeshTest.umap" 426
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/WeaponTest_BuiltData.uasset" 427
+"C:/Users/mason/Documents/Unreal Projects/Team13Altruism/Content/Levels/WeaponTest.umap" 428
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 429
+"../../../Engine/Content/Maps/Entry.umap" 430
